@@ -23,3 +23,8 @@ console.log("currentOperatingSystem: ", currentOperatingSystem);
 
 const currentUser = os.userInfo().username;
 console.log("currentUser: ", currentUser);
+
+const currentCpuSpeed = os.cpus()[0]["speed"];
+console.log("currentCpuSpeed: ", currentCpuSpeed);
+const currentCpuChip = os.cpus()[0].model;
+console.log("currentCpuChip: ", currentCpuChip);
