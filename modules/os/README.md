@@ -1,6 +1,6 @@
 # OS Module
 
-Find docs by searching nodejs.org:OS or by going to the [currently used Met Office version, 14.x](https://nodejs.org/docs/latest-v14.x/api/os.html).
+Find docs by searching [nodejs.org:OS](https://www.google.com/search?q=nodejs.org:OS) or by going to the [currently used Met Office version, 14.x](https://nodejs.org/docs/latest-v14.x/api/os.html).
 
 This module allows the user to interact with the operating system, finding information about things like:
 
